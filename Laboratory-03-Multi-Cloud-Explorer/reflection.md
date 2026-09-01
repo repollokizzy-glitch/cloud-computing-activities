@@ -1,1 +1,11 @@
+# Mission Reflection
 
+Completing Mission 3 helped me understand how major cloud platforms provide different services while solving similar business and technical problems. Among AWS, Microsoft Azure, and Google Cloud Platform, the platform that impressed me the most was AWS because of its broad range of services and global infrastructure. AWS provides many options for computing, storage, databases, networking, security, analytics, and application development. I also learned that having many available services gives organizations flexibility when designing cloud solutions.
+
+AWS, Azure, and GCP have many similarities. All three platforms provide virtual machines, object storage, databases, networking, identity and access management, monitoring, and other cloud services. They also support scalability, high availability, security, automation, and pay-as-you-go cloud computing. However, each provider has areas where it is particularly strong. Azure has excellent integration with Microsoft technologies, while GCP is especially strong in artificial intelligence, data analytics, and Kubernetes.
+
+Business requirements have an important influence on cloud platform selection. A startup may prioritize cost, scalability, and ease of development, while a Microsoft-based organization may benefit more from Azure. An AI research company may prefer GCP because of its AI and machine learning capabilities, while a global e-commerce company may prioritize worldwide infrastructure, availability, and automatic scaling.
+
+Acting as a Cloud Solutions Consultant taught me that choosing a cloud provider is not simply about selecting the most popular platform. The decision should be based on the organization's budget, existing technology, application requirements, scalability needs, security requirements, and future goals.
+
+My GitHub Cloud Computing Portfolio improved significantly after completing this mission. I added research about three major cloud providers, comparison tables, service mappings, client recommendations, Linux investigation results, screenshots, and a reflection. This made my portfolio more organized and demonstrated my ability to research, compare, and recommend cloud solutions based on real-world business requirements.
