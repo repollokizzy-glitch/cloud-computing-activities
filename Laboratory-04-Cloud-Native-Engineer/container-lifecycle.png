@@ -1,4 +1,1 @@
-docker ps
-docker stop nginx-server
-docker ps
-docker rm nginx-server
+
