@@ -4,7 +4,7 @@
 
 Amazon Web Services (AWS) is a cloud computing platform provided by Amazon. It offers a wide range of cloud services for computing, storage, databases, networking, security, analytics, and artificial intelligence.
 
-## Global Infrastructure
+## Global Infrastruc
 
 AWS operates a global cloud infrastructure consisting of Regions and Availability Zones. Regions are separate geographic areas, while Availability Zones are isolated locations within a Region that help improve availability and fault tolerance.
 
